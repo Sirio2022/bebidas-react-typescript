@@ -1,4 +1,5 @@
 # Buscador de Cócteles
+![Bebidas](https://github.com/user-attachments/assets/31005625-cbb1-4c72-b5cc-4258bf57b368)
 
 ## Descripción
 
